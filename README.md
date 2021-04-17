@@ -1,2 +1,1 @@
-# www.cccovs.com
-仅作为域名邮箱使用
+cccovs.com is used for private E-mail
